@@ -1,0 +1,19 @@
+.feedbackContainer {
+  display: flex;
+  flex-flow: wrap;
+  gap: 24px;
+}
+
+.feedbackButton {
+  text-transform: uppercase;
+  text-align: center;
+  display: flex;
+  margin: 0 auto;
+  padding: 12px 36px;
+  border: none;
+  border-radius: 12px;
+}
+
+.feedbackButton:hover {
+  background-color: grey;
+}

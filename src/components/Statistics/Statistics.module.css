@@ -1,0 +1,8 @@
+.statisticsContainer {
+  padding: 24px;
+}
+
+.statisticsItem {
+  margin-bottom: 12px;
+  font-weight: bold;
+}
